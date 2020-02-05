@@ -1,0 +1,98 @@
+[
+    {
+        "number": 1,
+        "topic": "France",
+        "question": "What is the capital city of France?",
+        "answers": [
+            {
+                "answer": "Paris"
+            },
+            {
+                "answer": "Germany"
+            },
+            {
+                "answer": "Belgium"
+            },
+            {
+                "answer": "Italy"
+            }
+        ]
+    },
+    {
+        "number": 2,
+        "topic": "Ireland",
+        "question": "What is the capital city of Ireland?",
+        "answers": [
+            {
+                "answer": "Paris"
+            }, 
+            {
+                "answer": "Germany"
+            }, 
+            {
+                "answer": "Belgium"
+            }, 
+            {
+                "answer": "Dublin"
+            }
+        ]
+    },
+    {
+        "number": 3,
+        "topic": "England",
+        "question": "What is the capital city of England?",
+        "answers": [
+            {
+                "answer": "Paris"
+            },
+            {
+                "answer": "Germany"
+            },
+            {
+                "answer": "Belgium"
+            },
+            {
+                "answer": "London"
+            }
+        ]
+    },
+    {
+        "number": 4,
+        "topic": "Nigeria",
+        "question": "What is the capital city of Nigeria?",
+        "answers": [
+            {
+                "answer": "Paris"
+            },
+            {
+                "answer": "Germany"
+            },
+            {
+                "answer": "Belgium"
+            },
+            {
+                "answer": "Abuja"
+            }
+        ]
+    },
+    {
+        "number": 5,
+        "topic": "Australia",
+        "question": "What is the capital city of Australia?",
+        "answers": [
+            {
+                "answer": "Paris"
+            },
+            {
+                "answer": "Germany"
+            },
+            {
+                "answer": "Belgium"
+            },
+            {
+                "answer": "Canberra"
+            }
+        ]
+    }
+]
+

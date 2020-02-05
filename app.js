@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
 
 app.get('/', (req,res) => {
-    res.status(400).send(jsonData)
+    res.status(200).send(jsonData)
 })
 
 app.post('/', (req,res) => {
@@ -31,7 +31,7 @@ app.post('/', (req,res) => {
                 isRight: false
         })
     })
-    res.status(400).send(results)
+    res.status(200).send(results)
 })
 
 app.listen(8000, () => {
